@@ -13,7 +13,24 @@ namespace Bonus18
         static void Main(string[] args)
         {
 
+            CarLot VictoryMotors = new CarLot(10);      //I'm big bob!
 
+            char row = 'A';
+            for (int i = 0; i < 10; i++)
+            {
+
+                for (int j = 0; j < 10; j++)
+                {
+
+                    VictoryMotors.AddCar(row, new Car());
+
+                }
+
+                row++;
+
+            }
+
+            VictoryMotors.ListAll();
 
         }
 

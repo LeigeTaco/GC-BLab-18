@@ -1,0 +1,7 @@
+C:\Users\ashke\source\repos\Bonus18\Bonus18\bin\Debug\Bonus18.exe.config
+C:\Users\ashke\source\repos\Bonus18\Bonus18\bin\Debug\Bonus18.exe
+C:\Users\ashke\source\repos\Bonus18\Bonus18\bin\Debug\Bonus18.pdb
+C:\Users\ashke\source\repos\Bonus18\Bonus18\obj\Debug\Bonus18.csprojAssemblyReference.cache
+C:\Users\ashke\source\repos\Bonus18\Bonus18\obj\Debug\Bonus18.csproj.CoreCompileInputs.cache
+C:\Users\ashke\source\repos\Bonus18\Bonus18\obj\Debug\Bonus18.exe
+C:\Users\ashke\source\repos\Bonus18\Bonus18\obj\Debug\Bonus18.pdb
